@@ -15,5 +15,5 @@ jobs:
           Name: Install dependencies
           command: npm install
       - run:
-          Name: Run tests:
+          Name: Run tests
           command: npm run test
